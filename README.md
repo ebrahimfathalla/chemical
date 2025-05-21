@@ -1,82 +1,40 @@
 # Chemical in Cosmetics in the state of California  
 
-● Description: In this project, we’re exploring data from the California Safe Cosmetics Program (CSCP), a public health initiative that tracks potentially harmful ingredients in cosmetic products sold in California. The dataset includes reports from different brands about substances that could pose health risks.
- Our goal is to determine which types of harmful ingredients appear most frequently and in which product categories they’re found in as well as which brands report them most often.
- This isn’t just a data exercise, we are also interested in what the results might mean for everyday consumers. Since cosmetics are used regularly by so many people so understanding what’s in them is important for health and safety, we hope our findings help make that a little clearer.
-● Dataset: We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks. We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.
-● Analysis: Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the mostIdentifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+# Project Overview
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+This project analyzes data from the California Safe Cosmetics Program (CSCP), a public health initiative that monitors potentially harmful ingredients in cosmetic products sold in California.
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+The dataset includes reports submitted by various brands identifying substances that may pose health risks. The main objectives of this analysis are:
+	•	To identify the most frequently reported harmful ingredients
+	•	To determine which categories of cosmetic products contain these substances
+	•	To highlight the brands that report them most often
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+Beyond the technical analysis, we are also interested in the implications of these findings for consumers. Given how widely cosmetic products are used, understanding what goes into them is essential for public awareness and health.
 
-this all what we need to do for the README
+# Dataset
 
-The README file should include the following sections:
-● Project Title: Chemical in Cosmetics in the state of California.
-● Description: In this project, we’re exploring data from the California Safe Cosmetics Program (CSCP), a public health initiative that tracks potentially harmful ingredients in cosmetic products sold in California. The dataset includes reports from different brands about substances that could pose health risks.
- Our goal is to determine which types of harmful ingredients appear most frequently and in which product categories they’re found in as well as which brands report them most often.
- This isn’t just a data exercise, we are also interested in what the results might mean for everyday consumers. Since cosmetics are used regularly by so many people so understanding what’s in them is important for health and safety, we hope our findings help make that a little clearer.
-● Dataset: We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks. We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.
-● Analysis: Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the mostIdentifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+The data used in this project comes from the publicly available California Safe Cosmetics Program. It contains reports from manufacturers and brands listing chemical ingredients that have been linked to potential health risks.
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+# Analysis
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+Our analysis focused on the following key areas:
+	•	Identifying the most commonly reported harmful chemicals
+	•	Categorizing the types of products in which these chemicals appear
+	•	Highlighting the brands that most frequently report these ingredients
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+These findings help illustrate broader trends in cosmetic ingredient use and may be valuable for researchers, regulators, and consumers alike.
 
-The README file should include the following sections:
-● Project Title: Chemical in Cosmetics in the state of California.
-● Description: In this project, we’re exploring data from the California Safe Cosmetics Program (CSCP), a public health initiative that tracks potentially harmful ingredients in cosmetic products sold in California. The dataset includes reports from different brands about substances that could pose health risks.
- Our goal is to determine which types of harmful ingredients appear most frequently and in which product categories they’re found in as well as which brands report them most often.
- This isn’t just a data exercise, we are also interested in what the results might mean for everyday consumers. Since cosmetics are used regularly by so many people so understanding what’s in them is important for health and safety, we hope our findings help make that a little clearer.
-● Dataset: We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks. We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.We used publicly available data from the California Safe Cosmetics Program. This dataset includes reports from various brands listing chemical ingredients that may pose health risks.
-● Analysis: Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the mostIdentifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+# How to Run
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+To run this project:
+	1.	Open the file Python_Project.ipynb in Jupyter Notebook.
+	2.	Follow the code cells in order to see the full process of data cleaning, exploration, and visualization.
+	3.	Ensure that all necessary Python libraries are installed before running the notebook.
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
+# Dependencies
 
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.Identifying the most commonly reported harmful chemicals
-	•	Exploring which types of cosmetic products contain them
-	•	Pinpointing the brands that report these substances the most
-
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.
-Our findings help give a clearer picture of chemical trends in cosmetic manufacturing and what that might mean for everyday users.
-● How to Run: To run this project:
-Open the Jupyter Notebook: Python_Project.ipynbFollow the code cells step-by-step to view data cleaning, exploration, and visualization.Make sure to install the required librariesTo run this project:Open the Jupyter Notebook: Python_Project.ipynbFollow the code cells step-by-step to view data cleaning, exploration, and visualization.Make sure to install the required libraries (listed below) before running the notebook.To run this project:Open the Jupyter Notebook: Python_Project.ipynbFollow the code cells step-by-step to view data cleaning, exploration, and visualization.Make sure to install the required libraries (listed below) before running the notebook.To run this project:Open the Jupyter Notebook: Python_Project.ipynbFollow the code cells step-by-step to view data cleaning, exploration, and visualization.Make sure to install the required libraries (listed below) before running the notebook.To run this project:Open the Jupyter Notebook: Python_Project.ipynbFollow the code cells step-by-step to view data cleaning, exploration, and visualization.Make sure to install the required libraries (listed below) before running the notebook. before running the notebook.● Dependencies: 	
-•	pandas
-•	matplotlib
-•	seaborn
-•	numpy
+The following Python libraries are required:
+	•	pandas
+	•	matplotlib
+	•	seaborn
+	•	numpy
