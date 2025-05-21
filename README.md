@@ -1,6 +1,4 @@
-# Chemical in Cosmetics in the state of California  
-
-# Project Overview
+# Chemical in Cosmetics in the state of California  Project Overview
 
 This project analyzes data from the California Safe Cosmetics Program (CSCP), a public health initiative that monitors potentially harmful ingredients in cosmetic products sold in California.
 
@@ -14,6 +12,8 @@ Beyond the technical analysis, we are also interested in the implications of the
 # Dataset
 
 The data used in this project comes from the publicly available California Safe Cosmetics Program. It contains reports from manufacturers and brands listing chemical ingredients that have been linked to potential health risks.
+
+If the dataset is too large to upload directly, a link to the source will be provided in the repository.
 
 # Analysis
 
@@ -29,7 +29,7 @@ These findings help illustrate broader trends in cosmetic ingredient use and may
 To run this project:
 	1.	Open the file Python_Project.ipynb in Jupyter Notebook.
 	2.	Follow the code cells in order to see the full process of data cleaning, exploration, and visualization.
-	3.	Ensure that all necessary Python libraries are installed before running the notebook.
+	3.	Make sure that the required Python libraries are installed before running the notebook.
 
 # Dependencies
 
