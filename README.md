@@ -1,4 +1,6 @@
-# Chemical in Cosmetics in the state of California  Project Overview
+# Chemical in Cosmetics in the state of California  
+
+# Project Overview
 
 This project analyzes data from the California Safe Cosmetics Program (CSCP), a public health initiative that monitors potentially harmful ingredients in cosmetic products sold in California.
 
