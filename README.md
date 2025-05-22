@@ -24,6 +24,9 @@ Our analysis focused on the following key areas:
 
 These findings help illustrate broader trends in cosmetic ingredient use and may be valuable for researchers, regulators, and consumers alike.
 
+# Conclusion
+
+In conclusion, our analysis shows that a few harmful chemicals are often found in many cosmetic products. These chemicals are mostly found in certain types of products and are used by some brands more than others. This pattern might be important for safety rules in the future. Overall, our findings help people better understand what’s in their cosmetics and make smarter choices when buying them.
 # How to Run
 
 To run this project:
