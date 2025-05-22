@@ -13,7 +13,7 @@ Beyond the technical analysis, we are also interested in the implications of the
 
 # Dataset
 
-The data used in this project comes from the publicly available California Safe Cosmetics Program. It contains reports from manufacturers and brands listing chemical ingredients that have been linked to potential health risks.
+The [data](https://drive.google.com/drive/folders/1SZFPh-YpraoJRAKcIfPUYmNTL450e8Y2) used in this project comes from the publicly available California Safe Cosmetics Program. It contains reports from manufacturers and brands listing chemical ingredients that have been linked to potential health risks.
 
 # Analysis
 
