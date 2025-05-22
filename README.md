@@ -21,7 +21,6 @@ Our analysis focused on the following key areas:
 	•	Identifying the most commonly reported harmful chemicals
 	•	Categorizing the types of products in which these chemicals appear
 	•	Highlighting the brands that most frequently report these ingredients
-
 These findings help illustrate broader trends in cosmetic ingredient use and may be valuable for researchers, regulators, and consumers alike.
 
 # Conclusion
